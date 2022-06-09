@@ -24,11 +24,10 @@ Employment
 * 2016.02-2016.09 Yale University, Visiting Scholar
 
 Honors and Awards
+======
 * 2013 International Symposium on Biomedical Imaging Travel Grant
 * 2010-2013 Karlsruhe school of optics and photonics fellowship
 * 2016-2019 EIPOD-Marie Curie Postdoc Fellowship
-
-======
 
 Publications
 ======
@@ -44,9 +43,9 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Medical Image Processing
+
+* Adaptive Optics
   
 Service and leadership
 ======
