@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Open Positions"
-permalink: /positions/
+title: "Join Us"
+permalink: /Join Us/
 author_profile: true
 ---
 
