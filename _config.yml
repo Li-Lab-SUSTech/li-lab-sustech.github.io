@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Fengying Wang/ Professor"
+title                    : "Li Lab"
 title_separator          : "-"
-name                     : &name  "Fengying Wang"
+name                     : &name  "Yiming Li"
 description              : &description "so interesting"
 url                      : https://zjuwfy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yiming Li"
   avatar           : "liyiming.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Professor of Southern University of Science and Technology"
+  location         : "Shenzhen China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zjuwfy"
   google_plus      :
   keybase          :
   instagram        :
