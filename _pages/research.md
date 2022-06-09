@@ -5,8 +5,14 @@ permalink: /Research/
 author_profile: true
 ---
 
-<div style="text-align: center">
-<img src='/images/uni2.jpg' style='width: 75%'>
+
+<div class="area_pics">
+			<ul>
+                            <li class="cover"><a><img src="images/research1.png" /></a></li>
+            				<li class="cover"><a><img src="images/research2.png" /></a></li>
+            				<li class="cover"><a><img src="images/research3.png" /></a></li>
+            				<li class="cover"><a><img src="images/research4.png" /></a></li>
+            			</ul>
 </div>
 
 <br>
