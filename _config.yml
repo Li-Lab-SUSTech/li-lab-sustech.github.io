@@ -9,8 +9,8 @@
 locale                   : "CHina"
 title                    : "Fengying Wang/ Professor"
 title_separator          : "-"
-name                     : &name "Fengying Wang"
-description              : &description "personal description"
+name                     : "Fengying Wang"&name 
+description              : &description "so interesting"
 url                      : https://zjuwfy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zjuwfy/zjuwfy.github.io"
