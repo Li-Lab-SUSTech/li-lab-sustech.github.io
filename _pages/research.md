@@ -7,12 +7,12 @@ author_profile: true
 
 
 <div class="area_pics">
-			<ul>
-                            <li class="cover"><a><img src="images/research1.png" /></a></li>
-            				<li class="cover"><a><img src="images/research2.png" /></a></li>
-            				<li class="cover"><a><img src="images/research3.png" /></a></li>
-            				<li class="cover"><a><img src="images/research4.png" /></a></li>
-            			</ul>
+		
+ <img src="images/research1.png" />
+ <img src="images/research2.png" />
+ <img src="images/research3.png" />
+ <img src="images/research4.png" />
+
 </div>
 
 <br>
