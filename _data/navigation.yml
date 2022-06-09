@@ -9,15 +9,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-<<<<<<< HEAD
   - title: "Team"
     url: /Team/    
-=======
-  - title: "Positions"
-    url: /positions/
->>>>>>> 64ceba8 (navigation)
 
-      - title: "Contact"
+  - title: "Contact"
     url: /contact/
 
  
