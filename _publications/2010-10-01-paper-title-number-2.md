@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Global fitting for high-accuracy multi-channel single-molecule localization"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+venue: 'Nature Communications'
+paperurl: 'http://zjuwfygithub.io/files/paper1.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Multi-channel detection in single-molecule localization microscopy greatly increases information content for various biological applications. Here, we present globLoc, a graphics processing unit based global fitting algorithm with flexible PSF modeling and parameter sharing, to extract maximum information from multi-channel single molecule data. As signals in multi-channel data are highly correlated, globLoc links parameters such as 3D coordinates or photon counts across channels, improving localization precision and robustness. We show, both in simulations and experiments, that global fitting can substantially improve the 3D localization precision for biplane and 4Pi single-molecule localization microscopy and color assignment for ratiometric multicolor imaging.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://zjuwfy.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
