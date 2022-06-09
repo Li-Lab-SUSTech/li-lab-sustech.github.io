@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,6 +27,7 @@ Honors and Awards
 * 2013 International Symposium on Biomedical Imaging Travel Grant
 * 2010-2013 Karlsruhe school of optics and photonics fellowship
 * 2016-2019 EIPOD-Marie Curie Postdoc Fellowship
+
 ======
 
 Publications
