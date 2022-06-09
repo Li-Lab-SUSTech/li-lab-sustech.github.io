@@ -1,22 +1,40 @@
 # main links links
 main:
+  - title: "Team"
+    url: /team/
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
+<<<<<<< HEAD
   - title: "Team"
     url: /Team/    
+=======
+  - title: "Positions"
+    url: /positions/
+>>>>>>> 64ceba8 (navigation)
 
-  - title: "Teaching"
-    url: /teaching/    
+      - title: "Contact"
+    url: /contact/
+
+ 
+  - #  title: "Talks"
+    #  url: /talks/    
+
+  - # title: "Teaching"
+    # url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - #  title: "Portfolio"
+    # url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - # title: "Blog Posts"
+    # url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - # title: "Guide"
+   #  url: /markdown/

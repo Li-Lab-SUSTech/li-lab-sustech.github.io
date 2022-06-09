@@ -9,8 +9,13 @@
 locale                   : "China"
 title                    : "Li Lab"
 title_separator          : "-"
+<<<<<<< HEAD
 name                     : &name  "Yiming Li"
 description              : &description "so interesting"
+=======
+name                     : &name "Yiming Li"
+description              : &description "personal description"
+>>>>>>> 64ceba8 (navigation)
 url                      : https://zjuwfy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zjuwfy/zjuwfy.github.io"
