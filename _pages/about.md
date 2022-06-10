@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
-<img src='/images/about1.png' style='width: 75%'>
+<img src='/images/about1.png' style='width: 120%'>
 </div>
 
 <body align="justify">
