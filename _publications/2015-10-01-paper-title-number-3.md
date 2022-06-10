@@ -1,6 +1,7 @@
 ---
 title: "Global fitting for high-accuracy multi-channel single-molecule localization"
 collection: publications
+excerpt: ' '
 date: 2022-10-01
 venue: 'Nature Communication'
 paperurl: 'http://zjuwfy.github.io/files/paper3.pdf'
