@@ -7,7 +7,7 @@ sharing, to extract maximum information from multi-channel single molecule data.
 date: 2022-10-01
 venue: 'Nature Communication'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Yiming Li, You. (2022). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Yiming Li, You. (2022). &quot;Global fitting for high-accuracy multi-channel single-molecule localization.&quot; <i>Journal 1</i>. 1(3).'
 ---
 Multi-channel detection in single-molecule localization microscopy greatly increases information content for various biological applications. Here, we present globLoc, a graphics processing unit based global fitting algorithm with flexible PSF modeling and parameter
 sharing, to extract maximum information from multi-channel single molecule data.
