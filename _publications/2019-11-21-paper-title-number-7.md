@@ -2,7 +2,7 @@
 title: "Depth-dependent PSF calibration and aberration correction for 3D single-molecule localization"
 collection: publications
 excerpt: ' '
-date: 2022-10-01
+date: 2019-10-01
 venue: 'Biomedical Optics Express'
 Authors: 'Li Y, Wu Y, Hoess P, Mund M, Ries J (2019). &quot;Depth-dependent PSF calibration and aberration correction for 3D single-molecule localization &quot; <i>Biomedical Optics Express</i>. 10(6).'
 ---
