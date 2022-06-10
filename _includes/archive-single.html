@@ -55,7 +55,7 @@
     {% if post.authors and post.paperurl %}
       <p>authors: {{ post.authors }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.authors %}
-      <p>authors: {{ post.citation }} </p>
+      <p>authors: {{ post.authors }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
