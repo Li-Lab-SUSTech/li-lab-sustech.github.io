@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "Global fitting for high-accuracy multi-channel single-molecule localization"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about me. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'Multi-channel detection in single-molecule localization microscopy greatly increases information content for various biological applications. Here, we present globLoc, a graphics processing unit based global fitting algorithm with flexible PSF modeling and parameter
+sharing, to extract maximum information from multi-channel single molecule data. '
+date: 2022-10-01
+venue: 'Nature Communication'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Yiming Li, You. (2022). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 4. The number 4 is left for future work.
+Multi-channel detection in single-molecule localization microscopy greatly increases information content for various biological applications. Here, we present globLoc, a graphics processing unit based global fitting algorithm with flexible PSF modeling and parameter
+sharing, to extract maximum information from multi-channel single molecule data.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Yiming Li , You. (2022). "Global fitting for high-accuracy multi-channel single-molecule localization" <i>Journal 1</i>. 1(3).
