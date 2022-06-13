@@ -1,0 +1,46 @@
+<h2> Team members: </h2>
+<div class="grid">
+  <div class="wrapper">
+    {% for member in site.team %}
+      {% assign alumni = false %}
+      {% if member.tags contains "alumni" %}
+        {% assign alumni = true %}
+      {% endif %}
+
+      {% if alumni == false %}
+        {% assign post = member %}
+        {% if member.theme contains page.type %}
+          {% include archive-single-proj.html type="grid" %}
+        {% else %}
+          {% for pub in site.publications %}
+            {% if pub.theme contains page.type and pub.authors contains member.authorname %}
+              {% include archive-single-proj.html type="grid" %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% for member in site.team %}
+      {% assign alumni = false %}
+      {% if member.tags contains "alumni" %}
+        {% assign alumni = true %}
+      {% endif %}
+      
+      {% if alumni == true %}
+        {% assign post = member %}
+        {% if member.theme contains page.type %}
+          {% include archive-single-proj.html type="grid" %}
+        {% else %}
+          {% for pub in site.publications %}
+            {% if pub.theme contains page.type and pub.authors contains member.authorname %}
+              {% include archive-single-proj.html type="grid" %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>

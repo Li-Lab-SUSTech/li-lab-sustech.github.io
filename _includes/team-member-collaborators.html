@@ -1,0 +1,35 @@
+{% assign exists = false %}
+{% for member in site.collaborations %}
+  {% if page.supervisors contains member.authorname or page.collaborators contains member.authorname %}
+    {% assign exists = true %}
+    {% break %}
+  {% else %}
+    {% for pub in site.publications %}
+      {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
+        {% assign exists = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% if exists %}
+  <h2> Collaborators </h2>
+  <div class="grid">
+    <div class="wrapper">
+      {% for member in site.collaborations %}
+        {% assign post = member %}
+        {% if page.supervisors contains member.authorname or page.collaborators contains member.authorname %}
+          {% include archive-single-proj.html type="grid" %}
+        {% else %}
+          {% for pub in site.publications %}
+            {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
+              {% include archive-single-proj.html type="grid" %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

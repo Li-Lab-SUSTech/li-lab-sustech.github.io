@@ -1,0 +1,18 @@
+<h2> Collaborators: </h2>
+<div class="grid">
+  <div class="wrapper">
+    {% for member in site.collaborations %}
+      {% assign post = member %}
+      {% if member.theme contains page.type %}
+        {% include archive-single-proj.html type="grid" %}
+      {% else %}
+        {% for pub in site.publications %}
+          {% if pub.theme contains page.type and pub.authors contains member.authorname %}
+            {% include archive-single-proj.html type="grid" %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
