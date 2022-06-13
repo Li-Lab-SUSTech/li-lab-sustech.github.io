@@ -18,8 +18,7 @@ author_profile: true
 Emailadress
 </p>
 
-<br/>
-
+<hr><br>
 
 <hr-bold>
 <h2>Post-doctoral researchers</h2>
