@@ -1,6 +1,6 @@
 ---
 title: "Gellary item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "FD-DeepLoc combined with DMO PSF engineering enables whole cell 3D super-resolution imaging over large FOV<br/><img src='/images/gellary1.png'>"
 collection: ourgellary
 ---
 
