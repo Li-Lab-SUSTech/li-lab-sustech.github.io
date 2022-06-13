@@ -4,19 +4,12 @@ title: "Research Team"
 permalink: /team/
 author_profile: true
 ---
-.photo{
-    float:left;
-    width:20%;
-}
-.intro{
-    float:right;
-    width:80%;
-}
+
 <div class="member">
-<div calss="photo"><img src="imgaes/YLM.png"></div>
+<div class="photo"><img src="imgaes/YLM.png/"></div>
 <div class="intro">
 <h3>Yiming Li</h3>
-<p>is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.Emailadress</p>
+<p>Yiming Li is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.Emailadress</p>
 </div>
 </div>
 
@@ -24,7 +17,7 @@ author_profile: true
 <hr-bold>
 <h2>Principal Investigator</h2>
 <hr><br>
-<img src="/images/LYM.png" style="float:left;" >
+<img src="/images/LYM.png" style="float:left; width=100px;height=100px;" >
 
 **Ze Jiang** (PhD 2018-2021) is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.Emailadress
 
