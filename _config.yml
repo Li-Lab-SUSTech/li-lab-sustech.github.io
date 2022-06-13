@@ -189,6 +189,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
+  ourgellary:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -246,7 +252,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _team
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+  # _ourgellary
+  - scope:
+      path: ""
+      type: ourgellary
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
