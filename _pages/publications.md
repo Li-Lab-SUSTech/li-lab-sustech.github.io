@@ -16,5 +16,5 @@ You can find the complete publication list on <a href="https://scholar.google.co
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
