@@ -1,0 +1,21 @@
+{% assign exists = false %}
+{% for resource in site.resources %}
+  {% assign post = resource %}
+  {% if resource.contributors contains page.authorname %}
+    {% assign exists = true %}
+  {% endif %}
+{% endfor %}
+
+{% if exists %}
+  <h2> Resources </h2>
+  <div class="grid">
+    <div class="wrapper">
+      {% for resource in site.resources %}
+        {% assign post = resource %}
+        {% if resource.contributors contains page.authorname %}
+          {% include archive-single-proj.html type="grid" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

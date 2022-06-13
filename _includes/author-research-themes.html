@@ -1,0 +1,18 @@
+<h2> Research themes with our lab </h2>
+<div class="grid">
+  <div class="wrapper">
+    {% for theme in site.research %}
+      {% assign post = theme %}
+      {% if page.theme contains theme.type %}
+        {% include archive-single-proj.html type="grid" %}
+      {% else %}
+        {% for pub in site.publications %}
+          {% if pub.authors contains page.authorname and pub.theme contains theme.type %}
+            {% include archive-single-proj.html type="grid" %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
