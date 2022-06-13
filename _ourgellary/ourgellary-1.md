@@ -1,6 +1,6 @@
 ---
 title: "Gellary item number 1"
-excerpt: "FD-DeepLoc combined with DMO PSF engineering enables whole cell 3D super-resolution imaging over large FOV<br/><img src='/images/gellary1.png'>"
+excerpt: "FD-DeepLoc combined with DMO PSF engineering enables whole cell 3D super-resolution imaging over large FOV<br/><img src='/images/media1.gif'>"
 collection: ourgellary
 ---
 
