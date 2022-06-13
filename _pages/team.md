@@ -10,8 +10,9 @@ author_profile: true
 <hr-bold>
 <h2>Principal Investigator</h2>
 <hr><br>
-<img src="/images/LYM.png" align="justify" >
+<img src="/images/LYM.png" align="left" >
 
+<p align= "right">
 <h3>Yiming Li</h3>
 <p>Yiming Li is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.Emailadress</p>
 
