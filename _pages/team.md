@@ -18,7 +18,7 @@ author_profile: true
 Emailadress
 </p>
 
-<hr><br>
+<br>
 
 <hr-bold>
 <h2>Post-doctoral researchers</h2>
@@ -29,21 +29,23 @@ Emailadress
 <h3>Yiming Li</h3>
 <p>Yiming Li is developing mathematical
 
-<br/>
+<br>
 
 <hr-bold>
 <h2>PhD students</h2>
 <hr><br>
 
-<br/>
+<br>
+
 
 <hr-bold>
 <h2>Internship students</h2>
 <hr><br>
 
-<br/>
+<br>
 
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
-<br/>
+
+<br>
