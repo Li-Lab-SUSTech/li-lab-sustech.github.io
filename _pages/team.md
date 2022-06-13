@@ -4,6 +4,22 @@ title: "Research Team"
 permalink: /team/
 author_profile: true
 ---
+.photo{
+    float:left;
+    width:20%;
+}
+.intro{
+    float:right;
+    width:80%;
+}
+<div class="member">
+<div calss="photo"><img src="imgaes/YLM.png"></div>
+<div class="intro">
+<h3>Yiming Li</h3>
+<p>is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.Emailadress</p>
+</div>
+</div>
+
 
 <hr-bold>
 <h2>Principal Investigator</h2>
