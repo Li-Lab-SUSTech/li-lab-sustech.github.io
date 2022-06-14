@@ -7,9 +7,9 @@ author_profile: true
 
 <style>
 .members{
-    background-color:pink;
+    background-color:white;
     width:600px
-    boarder:solid 1px gray;
+    boarder:solid 2px pink;
     overflow:hidden;
 }
 .pic{
@@ -40,17 +40,6 @@ width:200px
 <p>2010-2015 Ph. D., Biophysics, Karlsruhe Institute of Technology</p>
 <p>2009-2010 M. Sc., Medical Physics, Heidelberg University</p>
 <p>2005-2009 B.E., Biomedical Engineering, Shanghai Jiao Tong University</p>
-<hr>
- 
-
-<p>Employment</p>
-
-<p>2019.11 Department of Biomedical Engineering, Southern University of Science and Technology, Assistant Professor</p>
-<p>2016-2019 European Molecular Biology Laboratory, Heidelberg, Postdoc</p>
-
-<p>2016.02-2016.09 Yale University，Visiting Scholar</p>
-
-<p>Emailaddress:liyiming12@gmail.com</p>
 </div>
 </div>
 
