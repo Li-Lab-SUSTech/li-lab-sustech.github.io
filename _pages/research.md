@@ -4,7 +4,13 @@ title: "Research"
 permalink: /Research/
 author_profile: true
 ---
-
+<style>
+    .area_pics img{
+        width:100px;
+        height:100px;
+        float:left;
+    }
+</style>
 
 <div class="area_pics">
 		
