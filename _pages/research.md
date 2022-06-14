@@ -6,8 +6,9 @@ author_profile: true
 ---
 <style>
     .area_pics img{
-        width:200px;
-        height:200px;
+        width:220px;
+        height:220px;
+        margin-left:25px
         float:left;
     }
 </style>
@@ -21,6 +22,8 @@ author_profile: true
 
 </div>
 
+<div>
+<br>
 <br>
 Fluorescence microscopy has become the most widely used technique in cellular biology for noninvasive, time-resolved imaging with high molecular specificity. However, the diffraction of light limits the resolution of standard microscopes to ~250 nm, thus preventing detailed analyses of molecular structures. The development of PALM/STORM super-resolution microscopy (SRM) has pushed the boundaries of optical resolution to a few nanometers so that an optical analysis of the nano-biostructures has become possible. However, the axial resolution of common 3D SRM is 40 – 70 nm, which cannot resolve many cellular structures, especially not on the level of structural biology. My overall aim is to push the resolution limit of this technique down to <10 nm in all 3D, enabling structural studies of large dynamic protein assemblies inside intact cells. Our research interests include:
 
@@ -31,3 +34,4 @@ Fluorescence microscopy has become the most widely used technique in cellular bi
 3. Biomedical image processing
 
 4. Correlative light and electron microscopy
+</div>
