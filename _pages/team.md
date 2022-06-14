@@ -40,20 +40,24 @@ width:200px
 
 <p>Emailadress</p>
 </div>
+</div>
+
+<br>
 <br>
 
 <hr-bold>
 <h2>Post-doctoral researchers</h2>
 <hr><br>
 <div class="members">
-<div class="pic">
+ <div class="pic">
 <img src="/images/zhoululu.jpg" alt="" />
-</div>
+ </div>
 <div class="text">
 <h3>Zhoululu</h3>
 <p>Yiming Li is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.</p>
 
 <p>Emailadress</p>
+</div>
 </div>
 
 <br>
