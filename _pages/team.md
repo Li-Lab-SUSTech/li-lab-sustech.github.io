@@ -164,7 +164,7 @@ width:200px
 <br>
 <div class="members">
  <div class="pic">
-<img src="/images/fushuang.jpg" alt="" />
+<img src="/images/fushuang.png" alt="" />
  </div>
 <div class="text">
 <h3>Shuang Fu</h3>
