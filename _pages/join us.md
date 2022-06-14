@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center">
-<img src='/images/uni1.jpg' style='width: 100%'>
+<img src='/images/uni1.jpg' style='width: 50%'>
 </div>
 
 <br>
