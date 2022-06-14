@@ -29,11 +29,11 @@ author_profile: true
 
  <h3>Our research interests include:</h3>
 
-1. Super-resolution Imaging
+<p>1. Super-resolution Imaging</p>
 
-2. Adaptive optics
+<p>2. Adaptive optics</p>
 
-3. Biomedical image processing
+<p>3. Biomedical image processing</p>
 
-4. Correlative light and electron microscopy
+<p>4. Correlative light and electron microscopy</p>
 </div>
