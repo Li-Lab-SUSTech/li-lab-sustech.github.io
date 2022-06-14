@@ -6,8 +6,8 @@ author_profile: true
 ---
 <style>
     .area_pics img{
-        width:100px;
-        height:100px;
+        width:200px;
+        height:200px;
         float:left;
     }
 </style>
