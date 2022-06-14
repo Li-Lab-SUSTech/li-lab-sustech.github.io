@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center">
-<img src='/images/uni1.jpg' height="250px">
+<img src='/images/uni3.png' height="200px">
 </div>
 
 <br>
