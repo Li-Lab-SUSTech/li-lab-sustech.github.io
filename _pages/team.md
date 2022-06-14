@@ -39,7 +39,7 @@ width:200px
 <p>Yiming Li is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.</p>
 
 <p>Emailadress</p>
-
+</div>
 <br>
 
 <hr-bold>
@@ -54,6 +54,7 @@ width:200px
 <p>Yiming Li is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.</p>
 
 <p>Emailadress</p>
+</div>
 
 <br>
 
