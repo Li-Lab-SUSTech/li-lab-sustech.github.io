@@ -21,7 +21,6 @@ display:block;
 width:200px
 }
 .text{
-    background-colar:green;
     width:700px;
     float:right;
 }
