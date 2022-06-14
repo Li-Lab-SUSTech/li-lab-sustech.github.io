@@ -37,9 +37,9 @@ width:200px
 <div class="text">
 <h3>Yiming Li</h3>
 <p>Education</p>
-<p>2010-2015 Ph. D., Biophysics, Karlsruhe Institute of Technology</p>
-<p>2009-2010 M. Sc., Medical Physics, Heidelberg University</p>
-<p>2005-2009 B.E., Biomedical Engineering, Shanghai Jiao Tong University</p>
+<p>2010-2015 Ph. D., Biophysics, Karlsruhe Institute of Technology
+2009-2010 M. Sc., Medical Physics, Heidelberg University
+2005-2009 B.E., Biomedical Engineering, Shanghai Jiao Tong University</p>
 </div>
 </div>
 
@@ -54,7 +54,9 @@ width:200px
  </div>
 <div class="text">
 <h3>Lulu Zhou</h3>
-<p>Yiming Li is developing mathematical transformation in the frequency domain (namely spectral transformation) to study sustained hydro-climatological anomalies.</p>
+<p>Yiming Li is developing mathematical transformation in
+ the frequency domain (namely spectral transformation) to
+  study sustained hydro-climatological anomalies.</p>
 
 <p>Emailaddress:</p>
 </div>
