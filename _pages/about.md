@@ -23,7 +23,8 @@ redirect_from:
 
 ## Who are we
 <img src='/images/team.jpg' style='width: 100%'>
-<b>seeing is believing. </b> We firmly believe that resolution determines the depth of research. We are a group of young, creative and hardworking people. We focus on improving the resolution of super-resolution microscopes to show the wonders of the microscopic world. To achieve this, we have developed a range of technologies that include both software and hardware. We are happy to share our results and hope that they will promote the advancement of science and technology.
+
+<b>Seeing is believing. </b> We firmly believe that resolution determines the depth of the research. We focus on improving the resolution of super-resolution microscopes to show the wonders of the microscopic world. To achieve this, we have developed a range of technologies that include both software and hardware. All of the team members are creative and hardworking. We are happy to share our results and hope that they will promote the advancement of science and technology.We are happy to share our results and hope that they will promote the advancement of science and technology.
  
 
 
