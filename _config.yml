@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "&nbsp;&nbsp;&nbsp;&nbsp;Yiming Li"
+  name             : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yiming Li"
   avatar           : "liyiming.png"
   bio              : "Assistant Professor of Southern University of Science and Technology"
   location         : "Shenzhen China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0egDKWMAAAAJ&hl=en"
-  email            :
+  email            : "liyiming12@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
