@@ -11,7 +11,7 @@ redirect_from:
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
-<img src='/images/media1.gif' style='width: 100%'>
+<img src='/images/media5.gif' style='width: 100%'>
 </div>
 
 <body align="justify">
