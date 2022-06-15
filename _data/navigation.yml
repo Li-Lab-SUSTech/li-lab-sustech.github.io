@@ -35,8 +35,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Our Gellary"
-    url: /ourgellary/
+  - title: "Our Gallary"
+    url: /ourgallary/
+    
+    - title: "Software"
+    url: /software/
     
   - title: "Join Us"
     url: /Join Us/    
