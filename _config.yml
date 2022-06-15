@@ -190,7 +190,7 @@ collections:
   team:
     output: true
     permalink: /:collection/:path/
-  ourgellary:
+  ourgallary:
     output: true
     permalink: /:collection/:path/
 
@@ -259,10 +259,10 @@ defaults:
       author_profile: true
       share: false
       comment: true
-  # _ourgellary
+  # _ourgallary
   - scope:
       path: ""
-      type: ourgellary
+      type: ourgallary
     values:
       layout: single
       author_profile: true
