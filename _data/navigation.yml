@@ -1,31 +1,6 @@
 # main links links
 main:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   - title: "Team"
     url: /team/
 
@@ -38,7 +13,7 @@ main:
   - title: "Our Gallary"
     url: /ourgallary/
     
-    - title: "Software"
+  - title: "Software"
     url: /software/
     
   - title: "Join Us"
