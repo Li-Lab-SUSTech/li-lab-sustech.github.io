@@ -7,7 +7,6 @@ author_profile: true
 <style>
     .area_pics img{
         width:225px;
-        height:250px;
         margin-left:25px
         float:left;
     }
