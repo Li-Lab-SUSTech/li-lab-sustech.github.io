@@ -15,13 +15,12 @@ redirect_from:
 </div>
 
 <body align="justify">
-<br>
+
 ## News about the laboratory
-Welcome the new research assistant Zeyu Xi! -- 2022.06.12
-Welcome the new research assistant Jingwen Zhang!--2022.06.06
-Paper is out ! Celebrate the Paper is out!--2022.06.01
-<br>
-<hr>
+* Welcome the new research assistant Zeyu Xi! -- 2022.06.12
+* Welcome the new research assistant Jingwen Zhang!--2022.06.06
+* Paper is out ! Celebrate the Paper is out!--2022.06.01
+
 ## Who are we
 <img src='/images/team.jpg' style='width: 100%'>
 
@@ -29,7 +28,7 @@ We like to think of ourselves as <b>optical cell biologists</b>. We focus on add
 
 
 
-### What we do
+## What we do
 
 Check this preview video for a recent talk in our laboratory or our [publication portfolio](https://scholar.google.co.uk/citations?hl=en&user=-peQ4ZsAAAAJ&view_op=list_works&sortby=pubdate).
 
