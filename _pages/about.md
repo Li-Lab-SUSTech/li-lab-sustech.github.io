@@ -17,8 +17,8 @@ redirect_from:
 <body align="justify">
 
 ## News about the laboratory
-* Welcome the new research assistant Zeyu Xi! -- 2022.06.13
-* Welcome the new research assistant Jingwen Zhang!--2022.06.08
+* Welcome our new research assistant Zeyu Xi! -- 2022.06.13
+* Welcome our new research assistant Jingwen Zhang!--2022.06.08
 * DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08
 * globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06
 
