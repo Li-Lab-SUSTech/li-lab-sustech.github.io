@@ -9,8 +9,6 @@
 locale                   : "China"
 title                    : "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Li Lab &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 title_separator          : "-"
-name                     : &name  "Yiming Li"
-description              : &description "so interesting"
 name                     : &name "Yiming Li"
 description              : &description "Optical Cell Biology"
 url                      : https://zjuwfy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiming Li"
+  name             : "&nbsp;&nbsp;&nbsp;&nbsp;Yiming Li"
   avatar           : "liyiming.png"
   bio              : "Assistant Professor of Southern University of Science and Technology"
   location         : "Shenzhen China"
