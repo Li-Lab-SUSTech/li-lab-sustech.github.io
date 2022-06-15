@@ -23,19 +23,11 @@ redirect_from:
 
 ## Who are we
 <img src='/images/team.jpg' style='width: 100%'>
-
-We like to think of ourselves as <b>optical cell biologists</b>. We focus on addressing <b>biomedical questions</b> by exploiting advancements we develop in <b>optical microscopy</b>. To do so, we create <b>open-technology</b> that pushes the boundaries of <b>cellular imaging</b>. All our research and methods are transparent, reproducible and widely available to researchers. In biology, we tackle broad <b>virology, host-pathogen interactions, immunology and cell signalling</b> questions. We do so by establishing <b>new classes of fluorescent probes, high-speed cell-friendly super-resolution methods and computational modelling approaches</b> that, although designed to answer questions of interest in the lab, have extensive cross-disciplinary applications.
-
+<b>seeing is believing. </b> We firmly believe that resolution determines the depth of research. We are a group of young, creative and hardworking people. We focus on improving the resolution of super-resolution microscopes to show the wonders of the microscopic world. To achieve this, we have developed a range of technologies that include both software and hardware. We are happy to share our results and hope that they will promote the advancement of science and technology.
+ 
 
 
 ## What we do
 
-Check this preview video for a recent talk in our laboratory or our [publication portfolio](https://scholar.google.co.uk/citations?hl=en&user=-peQ4ZsAAAAJ&view_op=list_works&sortby=pubdate).
-
-<div style="text-align: center">
-  <a href="https://youtu.be/ob0Xu6rXx8k">
-    <img src='http://img.youtube.com/vi/ob0Xu6rXx8k/0.jpg' style='width: 75%'>
-  </a>
-</div>
 
 
