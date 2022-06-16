@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "<center>Li Lab</center>"
+title                    : "<center>Li 	Laboratory</center>"
 title_separator          : "-"
 name                     : &name "Yiming Li"
 description              : &description "Optical Cell Biology"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter YimingLi_SZ
+  username               : &twitter "YimingLi_SZ"
 facebook:
   username               :
   app_id                 :
@@ -111,9 +111,9 @@ author:
   tumblr           :
   twitter          : "YimingLi_SZ"
   vine             :
-  weibo            :
+  weibo            : "my"
   xing             :
-  youtube          :
+  youtube          : "you"
   wikipedia        :
 
 
