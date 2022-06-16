@@ -193,7 +193,9 @@ collections:
   ourgallery:
     output: true
     permalink: /:collection/:path/
-
+  software:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -263,6 +265,15 @@ defaults:
   - scope:
       path: ""
       type: ourgallery
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _software
+  - scope:
+      path: ""
+      type: software
     values:
       layout: single
       author_profile: true
