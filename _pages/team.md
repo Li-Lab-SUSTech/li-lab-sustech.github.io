@@ -9,9 +9,10 @@ author_profile: true
 
 .pic{
     width:200px;
-    height:300px;
+    height:450px;
     float:left;
-    margin-left:40px
+    margin-left:40px;
+    text-align:center;
 }
 .pic img{
 display:block;
