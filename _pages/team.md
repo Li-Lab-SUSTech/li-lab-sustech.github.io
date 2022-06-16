@@ -9,12 +9,14 @@ author_profile: true
 
 .pic{
     width:200px;
+    height:250px;
     float:left;
     margin-left:40px
 }
 .pic img{
 display:block;
-width:200px
+width:200px;
+height:220px;
 margin-left:40px;
 float:left;
 }
