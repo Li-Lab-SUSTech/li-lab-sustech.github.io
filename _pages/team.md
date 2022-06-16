@@ -23,7 +23,7 @@ height:220px;
 </style>
 <div class="pic">
 <img src="/images/LYM.png" alt="" />
-<h3>Yiming Li</h3>
+<h3><a href="https://zjuwfy.github.io/cv/">Yiming Li</a></h3>
 <p>Pi</p>
 </div>
 
