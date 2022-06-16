@@ -17,17 +17,20 @@ redirect_from:
 <body align="justify">
 
 ## News about the laboratory
-* Welcome the new research assistant Zeyu Xi! -- 2022.06.12
-* Welcome the new research assistant Jingwen Zhang!--2022.06.06
-* Paper is out ! Celebrate the Paper is out!--2022.06.01
+* Welcome our new research assistant Zeyu Xi! -- 2022.06.13
+* Welcome our new research assistant Jingwen Zhang!--2022.06.08
+* DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08
+* globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06
 
 ## Who are we
-<img src='/images/team.jpg' style='width: 100%'>
-
-<b>Seeing is believing. </b> We firmly believe that resolution determines the depth of the research. We focus on improving the resolution of super-resolution microscopes to show the wonders of the microscopic world. To achieve this, we have developed a range of technologies that include both software and hardware. All of the team members are creative and hardworking. We are happy to share our results and hope that they will promote the advancement of science and technology.
-
-
+<img src='/images/team.jpg' style='width: 100%'> 
+  
+Our group is a mix of physicist, engineer, computer scientist, biologist and chemist. 
+  
 ## What we do
+<b>Seeing is believing! </b> We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.
+
+
 
 
 
