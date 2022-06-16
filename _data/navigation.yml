@@ -10,21 +10,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-<<<<<<< HEAD
   - title: "Our Gallery"
     url: /ourgallery/
-
-  - title: "Software"
-    url: /software/
-
-=======
-  - title: "Our Gellary"
-    url: /ourgellary/
     
   - title: "Software"
     url: /software/
     
->>>>>>> 1bf29c595bddeaac03479ee1baf3561b7a13cd1a
   - title: "Join Us"
     url: /Join Us/    
 
