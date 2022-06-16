@@ -18,8 +18,6 @@ author_profile: true
 display:block;
 width:200px;
 height:220px;
-margin-left:40px;
-float:left;
 }
 
 </style>
