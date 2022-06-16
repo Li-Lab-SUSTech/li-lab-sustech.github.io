@@ -9,7 +9,7 @@ author_profile: true
 
 .pic{
     width:200px;
-    height:250px;
+    height:300px;
     float:left;
     margin-left:40px
 }
