@@ -9,5 +9,5 @@ author_profile: true
 
 
 {% for post in site.software %}
-  {% include archive-single.html %}
+  {% include archive-single-software.html %}
 {% endfor %}
