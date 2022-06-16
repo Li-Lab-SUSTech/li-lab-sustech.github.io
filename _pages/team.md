@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Team"
+title: "<center>Research Team</center>"
 permalink: /team/
 author_profile: true
 ---
@@ -24,13 +24,13 @@ height:220px;
 <div class="pic">
 <img src="/images/LYM.png" alt="" />
 <h3><a href="https://zjuwfy.github.io/cv/">Yiming Li</a></h3>
-<p>Pi</p>
+<p>PI</p>
 </div>
 
 <div class="pic">
 <img src="/images/zhoululu.jpg" alt="" />
 <h3>Lulu Zhou</h3>
-<p>Post-doctoral researchers</p>
+<p>Post-doctoral researcher</p>
 </div>
 
 <div class="pic">
@@ -49,37 +49,37 @@ height:220px;
 <div class="pic">
 <img src="/images/chenjunfan.jpg" alt="" />
 <h3>Junfan Chen</h3>
-<p>Graduate students</p>
+<p>Graduate student</p>
 </div>
 
 
 <div class="pic">
 <img src="/images/limengfan.png" alt="" />
 <h3>Mengfan Li</h3>
-<p>Graduate students</p>
+<p>Graduate student</p>
 </div>
 
 <div class="pic">
 <img src="/images/luotingdan.jpg" alt="" />
 <h3>Tingdan Luo</h3>
-<p>Graduate students</p>
+<p>Graduate student</p>
 </div>
 
 <div class="pic">
 <img src="/images/chenjianwei.jpg" alt="" />
 <h3>Jianwei Chen</h3>
-<p>Graduate students</p>
+<p>Graduate student</p>
 </div>
 
 <div class="pic">
 <img src="/images/shiwei.jpg" alt="" />
 <h3>Wei Shi</h3>
-<p>Graduate students</p>
+<p>Graduate student</p>
 </div>
 
 <div class="pic">
 <img src="/images/fushuang.png" alt="" />
 <h3>Shuang Fu</h3>
-<p>Graduate students</p>
+<p>Graduate student</p>
 </div>
 
