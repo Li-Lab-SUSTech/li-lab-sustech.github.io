@@ -69,7 +69,7 @@ height:220px;
 
 <div class="pic">
 <img src="/images/limengfan.png" alt="" />
-<h3>Mengfang Li</h3>
+<h3>Mengfan Li</h3>
 <p>Graduate student</p>
 </div>
 
@@ -81,7 +81,7 @@ height:220px;
 
 <div class="pic">
 <img src="/images/chenjunfan.jpg" alt="" />
-<h3>Junfan Chen</h3>
+<h3>Junfang Chen</h3>
 <p>Graduate student</p>
 </div>
 
