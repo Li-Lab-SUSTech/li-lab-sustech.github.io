@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "<center>Li 	Laboratory</center>"
 title_separator          : "-"
 name                     : &name "Yiming Li"
@@ -85,7 +85,7 @@ author:
   bio              : "Assistant Professor of Southern University of Science and Technology"
   location         : "Shenzhen China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0egDKWMAAAAJ&hl=en"
   email            : "liyiming12@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -111,9 +111,9 @@ author:
   tumblr           :
   twitter          : "YimingLi_SZ"
   vine             :
-  weibo            : "my"
+  weibo            : 
   xing             :
-  youtube          : "you"
+  youtube          : 
   wikipedia        :
 
 
