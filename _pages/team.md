@@ -45,9 +45,6 @@ height:180px;
 </div>
 </div>
 
-<br>
-
-<hr-bold>
 <h2>Post-doctoral researchers</h2>
 <hr>
 <div class="members">
@@ -62,9 +59,6 @@ height:180px;
 </div>
 </div>
 
-<br>
-
-<hr-bold>
 <h2>Research Assistant</h2>
 <hr>
 <div class="members">
