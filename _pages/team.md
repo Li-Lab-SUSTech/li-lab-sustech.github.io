@@ -1,120 +1,183 @@
 ---
 layout: archive
-title: "<center>Research Team</center>"
+title: "Research Team"
 permalink: /team/
 author_profile: true
 ---
 
 <style>
-
+.members{
+    background-color:white;
+    width:1000px;
+    height:200px;
+    boarder:solid 2px pink;
+    overflow:hidden;
+}
 .pic{
     width:200px;
-    height:500px;
+    height:200px;
     float:left;
-    margin-left:40px;
-    text-align:center;
 }
 .pic img{
 display:block;
 width:200px;
-height:220px;
+height:200px;
 }
-
+.text{
+    width:700px;
+    height:200px;
+    float:right;
+}
 </style>
 
+<hr-bold>
+<h2>Principal Investigator</h2>
+<hr><br>
+<div class="members">
+<div class="pic">
+<img src="/images/LYM.png" alt="" />
+</div>
+<div class="text">
+<h3>Yiming Li</h3>
+<p>2010-2015 Ph. D., Biophysics, Karlsruhe Institute of Technology
+2009-2010 M. Sc., Medical Physics, Heidelberg University
+2005-2009 B.E., Biomedical Engineering, Shanghai Jiao Tong University</p>
+<p>Email:liyiming12@gmail.com</p>
+</div>
+</div>
 
 <br>
-<div class="pic">
-<img src="/images/liyimingpic.jpg" alt="" />
-<h3><a href="https://zjuwfy.github.io/cv/">Yiming Li</a></h3>
-<p>PI</p>
-</div>
 
-<div class="pic">
+<hr-bold>
+<h2>Post-doctoral researchers</h2>
+<hr><br>
+<div class="members">
+ <div class="pic">
 <img src="/images/zhoululu.jpg" alt="" />
+ </div>
+<div class="text">
 <h3>Lulu Zhou</h3>
-<p>Post-doctoral researcher</p>
 <p>Super-resolution imaging</p>
-<p>zhoull@sustech.edu.cn</p>
+
+<p>Email:zhoull@sustech.edu.cn</p>
+</div>
 </div>
 
-<div class="pic">
+<br>
+
+<hr-bold>
+<h2>Research Assistant</h2>
+<hr><br>
+<div class="members">
+ <div class="pic">
 <img src="/images/yangjie.jpg" alt="" />
+ </div>
+<div class="text">
 <h3>Jie Yang</h3>
-<p>Research Assistant</p>
-<font size=1>optomechanical design and miniaturization</font> 
-<p>yangj3@mail.sustech.edu.cn</p>
+<p>Research interests in optomechanical design and miniaturization</p>
+
+<p>Email:yangj3@mail.sustech.edu.cn</p>
+</div>
 </div>
 
-
-<div class="pic">
+<br>
+<div class="members">
+ <div class="pic">
 <img src="/images/heyingchuan.png" alt="" />
+ </div>
+<div class="text">
 <h3>Yingchuan He</h3>
-<p>Research Assistant</p>
-<font size=2>building and designing  optical microscopes, improving the performance of SMLM</font> 
-<p>heyc@mail.sustech.edu.cn</p>
+<p>I'm currently working on building and designing new optical microscopes. I am also interested in improving the performance of SMLM.</p>
+
+<p>Email:heyc@mail.sustech.edu.cn</p>
 </div>
-
-<div class="pic">
-<img src="/images/shiwei.jpg" alt="" />
-<h3>Wei Shi</h3>
-<p>Graduate student</p>
-<font size=3>b adaptive optics，super-resolution Imaging and biomedical image processing </font> 
-<p>shiw@mail.sustech.edu.cn</p>
 </div>
+<br>
+<br>
 
 
-<div class="pic">
-<img src="/images/fushuang.png" alt="" />
-<h3>Shuang Fu</h3>
-<p>Graduate student</p>
-<p> PSF engineering, deep-learning based localization </p>
-<p>fus2020@mail.sustech.edu.cn</p>
-</div>
-
-<div class="pic">
-<img src="/images/chenjianwei.jpg" alt="" />
-<h3>Jianwei Chen</h3>
-<p>Graduate student</p>
-<p>adaptive optics，3D PSF estimation and 4Pi single molecule localization</p>
-<p>12149038@mail.sustech.edu.cn </p>
-</div>
-
-<div class="pic">
-<img src="/images/limengfan.png" alt="" />
-<h3>Mengfan Li</h3>
-<p>Graduate student</p>
-<p> Multi-Dimension Single molecule localization.</p>
-<p>12032506@mail.sustech.edu.cn</p>
-</div>
-
-<div class="pic">
-<img src="/images/luotingdan.jpg" alt="" />
-<h3>Tingdan Luo</h3>
-<p>Graduate student</p>
-<p>deep-learning based localization </p>
-<p>12132638@mail.sustech.edu.cn</p>
-
-
-</div>
-
-<div class="pic">
+<hr-bold>
+<h2>Graduate students</h2>
+<hr><br>
+<div class="members">
+ <div class="pic">
 <img src="/images/chenjunfan.jpg" alt="" />
+ </div>
+<div class="text">
 <h3>Junfang Chen</h3>
-<p>Graduate student</p>
-<p> 4PI system installation.</p>
-<p>12132615@mail.sustech.edu.cn</p>
+<p>Research interests in 4PI system installation.</p>
+
+<p>Email:12132615@mail.sustech.edu.cn</p>
+</div>
+</div>
+<br>
+
+<div class="members">
+ <div class="pic">
+<img src="/images/limengfan.png" alt="" />
+ </div>
+<div class="text">
+<h3>Mengfan Li</h3>
+<p>Research interests in Multi-Dimensional Single molecule localization.</p>
+
+<p>Email:12032506@mail.sustech.edu.cn</p>
+</div>
+</div>
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/luotingdan.jpg" alt="" />
+ </div>
+<div class="text">
+<h3>Tingdan Luo</h3>
+<p>Research interests in deep-learning based localization </p>
+
+<p>Email:12132638@mail.sustech.edu.cn</p>
+</div>
 </div>
 
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/chenjianwei.jpg" alt="" />
+ </div>
+<div class="text">
+<h3>Jianwei Chen</h3>
+<p>Research interests include adaptive optics，3D PSF estimation and 4Pi single molecule localization.</p>
 
+<p>Emailaddress:12149038@mail.sustech.edu.cn</p>
+</div>
+</div>
 
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/shiwei.jpg" alt="" />
+ </div>
+<div class="text">
+<h3>Wei Shi</h3>
+<p>Research interests include adaptive optics，super-resolution Imaging and biomedical image processing</p>
 
+<p>Emailaddress:shiw@mail.sustech.edu.cn</p>
+</div>
+</div>
 
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/fushuang.png" alt="" />
+ </div>
+<div class="text">
+<h3>Shuang Fu</h3>
+<p>Research interests include PSF engineering, deep-learning based localization and my cats.</p>
 
+<p>Emailaddress:fus2020@mail.sustech.edu.cn</p>
+</div>
+</div>
+<br>
 
+<hr-bold>
+<h2>Alumni</h2>
+<hr><br>
 
-
-
-
-
-
+<br>
