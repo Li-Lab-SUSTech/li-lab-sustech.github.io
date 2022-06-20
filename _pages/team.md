@@ -9,30 +9,30 @@ author_profile: true
 .members{
     background-color:white;
     width:1000px;
-    height:200px;
+    height:180px;
     boarder:solid 2px pink;
     overflow:hidden;
 }
 .pic{
     width:200px;
-    height:200px;
+    height:180px;
     float:left;
 }
 .pic img{
 display:block;
 width:200px;
-height:200px;
+height:180px;
 }
 .text{
     width:700px;
-    height:200px;
+    height:180px;
     float:right;
 }
 </style>
 
 <hr-bold>
 <h2>Principal Investigator</h2>
-<hr><br>
+<hr>
 <div class="members">
 <div class="pic">
 <img src="/images/LYM.png" alt="" />
@@ -40,8 +40,7 @@ height:200px;
 <div class="text">
 <h3>Yiming Li</h3>
 <p>2010-2015 Ph. D., Biophysics, Karlsruhe Institute of Technology
-2009-2010 M. Sc., Medical Physics, Heidelberg University
-2005-2009 B.E., Biomedical Engineering, Shanghai Jiao Tong University</p>
+2009-2010 M. Sc., Medical Physics, Heidelberg University</p>
 <p>Email:liyiming12@gmail.com</p>
 </div>
 </div>
@@ -50,7 +49,7 @@ height:200px;
 
 <hr-bold>
 <h2>Post-doctoral researchers</h2>
-<hr><br>
+<hr>
 <div class="members">
  <div class="pic">
 <img src="/images/zhoululu.jpg" alt="" />
@@ -67,7 +66,7 @@ height:200px;
 
 <hr-bold>
 <h2>Research Assistant</h2>
-<hr><br>
+<hr>
 <div class="members">
  <div class="pic">
 <img src="/images/yangjie.jpg" alt="" />
@@ -98,7 +97,7 @@ height:200px;
 
 <hr-bold>
 <h2>Graduate students</h2>
-<hr><br>
+<hr>
 <div class="members">
  <div class="pic">
 <img src="/images/chenjunfan.jpg" alt="" />
