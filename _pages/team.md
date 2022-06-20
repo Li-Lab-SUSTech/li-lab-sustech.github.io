@@ -42,7 +42,7 @@ height:220px;
 <img src="/images/yangjie.jpg" alt="" />
 <h3>Jie Yang</h3>
 <p>Research Assistant</p>
-<p> optomechanical design and miniaturization</p>
+<font size=1>optomechanical design and miniaturization</font> 
 <p>yangj3@mail.sustech.edu.cn</p>
 </div>
 
@@ -51,7 +51,7 @@ height:220px;
 <img src="/images/heyingchuan.png" alt="" />
 <h3>Yingchuan He</h3>
 <p>Research Assistant</p>
-<p> building and designing  optical microscopes, improving the performance of SMLM.</p>
+<font size=2>building and designing  optical microscopes, improving the performance of SMLM</font> 
 <p>heyc@mail.sustech.edu.cn</p>
 </div>
 
@@ -59,7 +59,7 @@ height:220px;
 <img src="/images/shiwei.jpg" alt="" />
 <h3>Wei Shi</h3>
 <p>Graduate student</p>
-<p>adaptive optics，super-resolution Imaging and biomedical image processing</p>
+<font size=3>b adaptive optics，super-resolution Imaging and biomedical image processing </font> 
 <p>shiw@mail.sustech.edu.cn</p>
 </div>
 
