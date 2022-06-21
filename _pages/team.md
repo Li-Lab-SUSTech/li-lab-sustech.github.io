@@ -30,7 +30,6 @@ height:150px;
 }
 </style>
 
-<hr-bold>
 <h2>Principal Investigator</h2>
 <hr>
 <div class="members">
@@ -140,7 +139,6 @@ height:150px;
 <div class="text">
 <h3>Wei Shi</h3>
 <p>Research interests include adaptive optics，super-resolution Imaging and biomedical image processing</p>
-
 <p><a href="mailto:shiw@mail.sustech.edu.cn">Email:shiw@mail.sustech.edu.cn</a></p>
 </div>
 </div>
