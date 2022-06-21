@@ -34,7 +34,7 @@ height:150px;
 <hr>
 <div class="members">
 <div class="pic">
-<img src="/images/liyimingpicpic.jpg" alt="" />
+<img src="/images/liyimingpic.jpg" alt="" />
 </div>
 <div class="text">
 <h3>Yiming Li</h3>
