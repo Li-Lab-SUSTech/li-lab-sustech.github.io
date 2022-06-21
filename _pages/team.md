@@ -92,7 +92,7 @@ height:150px;
 <div class="text">
 <h3>Jianlin Wang</h3>
 <p>Hardware control software development</p>
-<p><a href="wangjl@mail.sustech.edu.cn">Email:wangjl@mail.sustech.edu.cn</a></p>
+<p><a href="mailto:wangjl@mail.sustech.edu.cn">Email:wangjl@mail.sustech.edu.cn</a></p>
 </div>
 </div>
 
@@ -103,8 +103,8 @@ height:150px;
  </div>
 <div class="text">
 <h3>Liwei Zhou</h3>
-<p>Refraction index match in STORM and DNA-PAINT.</p>
-<p><a href="zhoulw3@mail.sustech.edu.cn">Email:zhoulw3@mail.sustech.edu.cn</a></p>
+<p>Thick sample imaging with STORM and DNA-PAINT</p>
+<p><a href="mailto:zhoulw3@mail.sustech.edu.cn">Email:zhoulw3@mail.sustech.edu.cn</a></p>
 </div>
 </div>
 
@@ -116,7 +116,7 @@ height:150px;
 <div class="text">
 <h3>Jingwen Zhang</h3>
 <p>Research on microscope optical system and imaging algorithm</p>
-<p><a href="jeanvivian.z@outlook.com">Email:jeanvivian.z@outlook.com</a></p>
+<p><a href="mailto:jeanvivian.z@outlook.com">Email:jeanvivian.z@outlook.com</a></p>
 </div>
 </div>
 
@@ -128,7 +128,7 @@ height:150px;
 <div class="text">
 <h3>Zeyu Xi</h3>
 <p> Probe synthesis and Super-resolution microscopic imaging</p>
-<p><a href="xizy@mail.sustech.edu.cn">Email:xizy@mail.sustech.edu.cn</a></p>
+<p><a href="mailto:xizy@mail.sustech.edu.cn">Email:xizy@mail.sustech.edu.cn</a></p>
 </div>
 </div>
 
@@ -142,7 +142,7 @@ height:150px;
 <h3>Wei Shi</h3>
 <p>Research interests include adaptive optics，super-resolution Imaging and biomedical image processing</p>
 
-<p>Emailaddress:shiw@mail.sustech.edu.cn</p>
+<p><a href="mailto:shiw@mail.sustech.edu.cn">Email:shiw@mail.sustech.edu.cn</a>
 </div>
 </div>
 
@@ -249,7 +249,7 @@ height:150px;
 <hr>
 <div class="members">
  <div class="pic">
-<img src="/images/jiangshujia.jpg" alt="" />
+<img src="/images/jiangshujia.png" alt="" />
  </div>
 <div class="text">
 <h3>Shujia Zhang</h3>
