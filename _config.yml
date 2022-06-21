@@ -11,9 +11,9 @@ title                    : "<center>Li 	Laboratory</center>"
 title_separator          : "-"
 name                     : &name "Yiming Li"
 description              : &description "Optical Cell Biology"
-url                      : https://zjuwfy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://li-lab-sustech.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zjuwfy/zjuwfy.github.io"
+repository               : "li-lab-sustech/li-lab-sustech.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0egDKWMAAAAJ&hl=en"
-  email            : "liyiming12@gmail.com"
+  email            : " liym2019@sustech.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
