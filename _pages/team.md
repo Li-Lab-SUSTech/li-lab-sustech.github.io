@@ -34,13 +34,12 @@ height:150px;
 <hr>
 <div class="members">
 <div class="pic">
-<img src="/images/LYM.png" alt="" />
+<img src="/images/liyimingpicpic.jpg" alt="" />
 </div>
 <div class="text">
 <h3>Yiming Li</h3>
-<p>2010-2015 Ph. D., Biophysics, Karlsruhe Institute of Technology
-2009-2010 M. Sc., Medical Physics, Heidelberg University</p>
-<p><a href="mailto:liyiming12@gmail.com">Email:liyiming12@gmail.com</a></p>
+<p>Group Leader</p>
+<p><a href="mailto:liym2019@sustech.edu.cn">Email:liym2019@sustech.edu.cn</a></p>
 </div>
 </div>
 
