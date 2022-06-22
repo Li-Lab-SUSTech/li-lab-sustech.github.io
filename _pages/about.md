@@ -19,12 +19,12 @@ redirect_from:
 </style>
 
 <div class="area_pics">
-		
  <img src="/images/research1.png" />
  <img src="/images/research2.png" />
+</div>
+<div class="area_pics">
  <img src="/images/research3.png" />
  <img src="/images/research4.jpg" />
-
 </div>
 
 
