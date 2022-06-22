@@ -10,9 +10,23 @@ redirect_from:
 
 {::options parse_block_html="true" /}
 
-<div style="text-align: center">
-<img src='/images/media5.gif' style='width: 100%'>
+<style>
+    .area_pics img{
+        width:225px;
+        margin-left:25px
+        float:left;
+    }
+</style>
+
+<div class="area_pics">
+		
+ <img src="/images/research1.png" />
+ <img src="/images/research2.png" />
+ <img src="/images/research3.png" />
+ <img src="/images/research4.jpg" />
+
 </div>
+
 
 <body align="justify">
 
