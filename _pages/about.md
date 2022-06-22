@@ -12,7 +12,7 @@ redirect_from:
 
 <style>
     .area_pics img{
-        width:225px;
+        width:350px;
         margin-left:25px
         float:left;
     }
