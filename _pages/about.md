@@ -12,8 +12,8 @@ redirect_from:
 
 <style>
     .area_pics img{
-        width:400px;
-        margin-left:75px
+        width:380px;
+        margin-left:50px
         float:left;
     }
 </style>
