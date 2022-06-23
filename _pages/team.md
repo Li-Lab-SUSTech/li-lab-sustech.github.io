@@ -245,7 +245,7 @@ height:150px;
 <img src="/images/jiangshujia.png" alt="" />
  </div>
 <div class="text">
-<h3>Shujia Zhang</h3>
+<h3>Shujia Jiang</h3>
 <p>Assist to complete all kinds of administrative work </p>
 <p><a href="mailto:jiangsj3@mail.sustech.edu.cn">Email:jiangsj3@mail.sustech.edu.cn</a></p>
 </div>
