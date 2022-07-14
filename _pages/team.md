@@ -238,6 +238,67 @@ height:150px;
 </div>
 </div>
 
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/lvmingwei.png" alt="" />
+ </div>
+<div class="text">
+<h3>Mingwei Lv</h3>
+<p>Research on building and designing new optical microscopes</p>
+<p><a href="mailto:11912115@@mail.sustech.edu.cn">Email:11912115@@mail.sustech.edu.cn</a></p>
+</div>
+</div>
+
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/lijunze.png" alt="" />
+ </div>
+<div class="text">
+<h3>Junze Li</h3>
+<p>I‘m interested in live cell imaging</p>
+<p><a href="mailto:11911726@mail.sustech.edu.cn">Email:11911726@mail.sustech.edu.cn</a></p>
+</div>
+</div>
+
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/guofang.png" alt="" />
+ </div>
+<div class="text">
+<h3>Fang Guo</h3>
+<p>Research interests in diffractive optical elements</p>
+<p><a href="mailto:12012443@mail.sustech.edu.cn">Email:12012443@mail.sustech.edu.cn</a></p>
+</div>
+</div>
+
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/wangyanpei.png" alt="" />
+ </div>
+<div class="text">
+<h3>Yanpei Wang</h3>
+<p>Super resolution reconstruction of sequencing images based on convolutional Neural network</p>
+<p><a href="mailto:12032519@mail.sustech.edu.cn">Email:12032519@mail.sustech.edu.cn</a></p>
+</div>
+</div>
+
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/yueqiwen.png" alt="" />
+ </div>
+<div class="text">
+<h3>Wenqi Yue</h3>
+<p>Optical properties and biological applications of nanomaterials</p>
+<p><a href="mailto:12132656@mail.sustech.edu.cn">Email:12132656@mail.sustech.edu.cn</a></p>
+</div>
+</div>
+
+
 <h2>Administrative</h2>
 <hr>
 <div class="members">
