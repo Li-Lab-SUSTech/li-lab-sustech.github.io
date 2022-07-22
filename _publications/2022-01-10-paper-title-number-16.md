@@ -8,4 +8,4 @@ Authors: 'Chen J, Yao B, Yang Z, Shi W, Luo T, Xi P, Jin D, Li Y (2022). &quot;R
 ---
 4Pi single-molecule localization microscopy (4Pi-SMLM)with two opposing objectives achieves sub-10 nm isotropic3D resolution when as few as 250 photons are collected byeach objective. Here, we develop a new ratiometric multi-color imaging strategy for 4Pi-SMLM that employs theintrinsic multi-phase interference intensity without increas-ing the complexity of the system and achieves both optimal3D resolution and color separation. By partially linking thephoton parameters between channels with an interferencedifference ofπduring global fitting of the multi-channel 4Pisingle-molecule data, we show via simulated data that theloss of localization precision is minimal compared with thetheoretical minimum uncertainty, the Cramer–Rao lowerbound.
 
-[Download paper here](http://zjuwfy.github.io/files/paper16.pdf)
+[Download paper here](http://li-lab-sustech.github.io/files/paper16.pdf)
