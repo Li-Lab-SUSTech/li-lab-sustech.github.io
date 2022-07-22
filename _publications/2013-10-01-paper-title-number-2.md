@@ -8,4 +8,4 @@ Authors: 'Li Y, Ishitsuka Y, Hedde P, Nienhaus G(2013). &quot;Fast and Efficient
 ---
 In localization-based super-resolution microscopy, individual fluorescent markers are stochastically photoactivated and subsequently localized within a series of camera frames, yielding a final image with a resolution far beyond the diffraction limit. Yet, before localization can be performed, the subregions within the frames where the individual molecules are present have to be identified-oftentimes in the presence of high background. In this work, we address the importance of reliable molecule identification for the quality of the final reconstructed super-resolution image. We present a fast and robust algorithm (a-livePALM) that vastly improves the molecule detection efficiency while minimizing false assignments that can lead to image artifacts.
 
-[Download paper here](http://zjuwfy.github.io/files/paper2.pdf)
+[Download paper here](http://li-lab-sustech.github.io/files/paper2.pdf)
