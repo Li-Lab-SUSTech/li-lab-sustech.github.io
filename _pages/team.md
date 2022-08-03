@@ -209,7 +209,7 @@ height:150px;
  </div>
 <div class="text">
 <h3>Huanzhi Chang</h3>
-<p>Research on optimal sampling rate of different PSF in SMLM</p>
+<p>Research on optimal sampling rate of different PSF in SMLM </p>
 <p><a href="mailto:cchz018@163.com">Email:cchz018@163.com</a></p>
 </div>
 </div>
