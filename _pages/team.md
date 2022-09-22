@@ -193,18 +193,6 @@ height:150px;
 <br>
 <div class="members">
  <div class="pic">
-<img src="/images/chenjunfan.jpg" alt="" />
- </div>
-<div class="text">
-<h3>Junfang Chen</h3>
-<p>Research interests in 4PI system installation.</p>
-<p><a href="mailto:12132615@mail.sustech.edu.cn">Email:12132615@mail.sustech.edu.cn</a></p>
-</div>
-</div>
-
-<br>
-<div class="members">
- <div class="pic">
 <img src="/images/changhuanzhi.png" alt="" />
  </div>
 <div class="text">
@@ -306,12 +294,12 @@ height:150px;
 <hr>
 <div class="members">
  <div class="pic">
-<img src="/images/jiangshujia.png" alt="" />
+<img src="/images/huangzhimin.png" alt="" />
  </div>
 <div class="text">
-<h3>Shujia Jiang</h3>
+<h3>Zhimin Huang</h3>
 <p>Assist to complete all kinds of administrative work </p>
-<p><a href="mailto:jiangsj3@mail.sustech.edu.cn">Email:jiangsj3@mail.sustech.edu.cn</a></p>
+<p><a href="mailto:huangzm@mail.sustech.edu.cn">Email:huangzm@mail.sustech.edu.cn</a></p>
 </div>
 </div>
 <br>
