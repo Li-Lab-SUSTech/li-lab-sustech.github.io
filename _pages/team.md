@@ -59,7 +59,7 @@ height:150px;
 <br>
 <div class="members">
  <div class="pic">
-<img src="/images/zhoululu.jpg" alt="" />
+<img src="/images/fangke.png" alt="" />
  </div>
 <div class="text">
 <h3>Ke Fang</h3>
