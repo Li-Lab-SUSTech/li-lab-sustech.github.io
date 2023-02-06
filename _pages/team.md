@@ -119,17 +119,6 @@ height:150px;
 </div>
 </div>
 
-<br>
-<div class="members">
- <div class="pic">
-<img src="/images/zhangjingwen.png" alt="" />
- </div>
-<div class="text">
-<h3>Jingwen Zhang</h3>
-<p>Research on microscope optical system and imaging algorithm</p>
-<p><a href="mailto:jeanvivian.z@outlook.com">Email:jeanvivian.z@outlook.com</a></p>
-</div>
-</div>
 
 <br>
 <div class="members">
