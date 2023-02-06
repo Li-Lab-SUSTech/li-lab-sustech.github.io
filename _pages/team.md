@@ -43,7 +43,7 @@ height:150px;
 </div>
 </div>
 
-<h2>Post-doctoral researchers</h2>
+<h2>Researcher Associate</h2>
 <hr>
 <div class="members">
  <div class="pic">
@@ -55,6 +55,20 @@ height:150px;
 <p><a href="mailto:zhoull@sustech.edu.cn">Email:zhoull@sustech.edu.cn</a></p>
 </div>
 </div>
+
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/zhoululu.jpg" alt="" />
+ </div>
+<div class="text">
+<h3>Ke Fang</h3>
+<p>Research interests in three-dimensional genome structure </p>
+<p><a href="mailto:fangk@mail.sustech.edu.cn">Email:fangk@mail.sustech.edu.cn</a></p>
+</div>
+</div>
+
+
 
 <h2>Research Assistant</h2>
 <hr>
