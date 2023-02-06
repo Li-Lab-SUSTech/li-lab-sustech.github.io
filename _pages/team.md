@@ -47,18 +47,6 @@ height:150px;
 <hr>
 <div class="members">
  <div class="pic">
-<img src="/images/zhoululu.jpg" alt="" />
- </div>
-<div class="text">
-<h3>Lulu Zhou</h3>
-<p>Super-resolution imaging</p>
-<p><a href="mailto:zhoull@sustech.edu.cn">Email:zhoull@sustech.edu.cn</a></p>
-</div>
-</div>
-
-<br>
-<div class="members">
- <div class="pic">
 <img src="/images/fangke.png" alt="" />
  </div>
 <div class="text">
@@ -68,6 +56,17 @@ height:150px;
 </div>
 </div>
 
+<br>
+<div class="members">
+ <div class="pic">
+<img src="/images/zhoululu.jpg" alt="" />
+ </div>
+<div class="text">
+<h3>Lulu Zhou</h3>
+<p>Super-resolution imaging</p>
+<p><a href="mailto:zhoull@sustech.edu.cn">Email:zhoull@sustech.edu.cn</a></p>
+</div>
+</div>
 
 
 <h2>Research Assistant</h2>
