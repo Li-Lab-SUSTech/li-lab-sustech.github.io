@@ -18,7 +18,12 @@ redirect_from:
     }
   
    .slideshow img {
+         object-fit: cover;
          animation: slide 2s infinite;
+      }
+        @keyframes slide {
+         from { left: 100% }
+         to { left: -100% }
       }
 </style>
 
