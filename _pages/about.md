@@ -18,12 +18,6 @@ redirect_from:
     }
   
    .slideshow img {
-         position: absolute;
-         left: 0;
-         top: 0;
-         width: 100%;
-         height: 100%;
-         object-fit: cover;
          animation: slide 2s infinite;
       }
 </style>
