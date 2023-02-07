@@ -24,7 +24,7 @@ redirect_from:
          width: 100%;
          height: 100%;
          object-fit: cover;
-         animation: slide 15s infinite;
+         animation: slide 2s infinite;
       }
 </style>
 
