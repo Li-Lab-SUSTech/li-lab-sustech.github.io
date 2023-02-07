@@ -17,14 +17,6 @@ redirect_from:
         float:left;
     }
   
-   .slideshow img {
-         object-fit: cover;
-         animation: slide 2s infinite;
-      }
-        @keyframes slide {
-         from { left: 100% }
-         to { left: -100% }
-      }
 </style>
 
 <div class="area_pics">
@@ -49,14 +41,9 @@ redirect_from:
 <b>Seeing is believing! </b> We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.
 
 ## Who are we
+  <img src='/images/team.jpg' style='width: 100%'> 
   
-  
-   <div class="slideshow">
-      <img src="/images/team.jpg" alt="Image 1">
-      <img src="/images/uni1.jpg" alt="Image 2">
-      <img src="/images/uni3.png" alt="Image 3">
-   </div>
-   
+
 
 Our group is a mix of physicist, engineer, computer scientist, biologist and chemist. 
   
