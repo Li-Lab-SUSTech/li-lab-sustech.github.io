@@ -55,7 +55,7 @@ redirect_from:
    <div class="slideshow">
       <img src="/images/team.jpg" alt="Image 1">
       <img src="/images/uni1.jpg" alt="Image 2">
-      <img src="/images/uni2.png" alt="Image 3">
+      <img src="/images/uni3.png" alt="Image 3">
    </div>
    
 
