@@ -52,9 +52,13 @@ redirect_from:
         background-color: rgba(0,0,0,0.8);
       }
   
-  
+      .news {
+      width:800px;
+      height: 150px;
+      overflow-y: auto;
+    }
 </style>
-
+<body align="justify">
 <div class="area_pics">
  <img src="/images/research1.png" />
  <img src="/images/research2.png" />
@@ -63,23 +67,31 @@ redirect_from:
  <img src="/images/research3.png" />
  <img src="/images/research4.jpg" />
 </div>
+  <br>
+<div>
+    <h1> News about the laboratory</h1>
+   <hr /> 
+<div class="news">
 
-
-<body align="justify">
- <div>
-<p> News about the laboratory
-* Welcome our new research assistant Zeyu Xi! -- 2022.06.13
-* Welcome our new research assistant Jingwen Zhang!--2022.06.08
-* DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08
-* globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06
-
- What we do
-<b>Seeing is believing! </b> We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology. </p>
+<li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
+<li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
+<li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
+<li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
+<li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
+<li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
+<li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
+<li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
   </div>
+   </div>   
+<br>
+<h1>What we do </h1>
+   <hr /> 
+  <p><b>Seeing is believing! </b>We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.</p>
 
-
-     <div class="slideshow-container">
-      <div class="mySlides">
+<h1>What we are </h1>
+     <hr /> 
+  <div class="slideshow-container">
+      <div class="mySlides"> 
         <img src="/images/team1.jpg" style="width:100%">
       </div>
       <div class="mySlides">
@@ -88,11 +100,27 @@ redirect_from:
       <div class="mySlides">
         <img src="/images/team3.jpg" style="width:100%">
       </div>
+          <div class="mySlides"> 
+        <img src="/images/team4.jpg" style="width:100%">
+      </div>
+      <div class="mySlides">
+        <img src="/images/team5.jpg" style="width:100%">
+      </div>
+      <div class="mySlides">
+        <img src="/images/team6.jpg" style="width:100%">
+      </div>
+          <div class="mySlides"> 
+        <img src="/images/team7.jpg" style="width:100%">
+      </div>
+      <div class="mySlides">
+        <img src="/images/team8.jpg" style="width:100%">
+      </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
+  <p>Our group is a mix of physicist, engineer, computer scientist, biologist and chemist.</p>
     <script>
-      var slideIndex = 1;
+      var slideIndex = 5;
       showSlides(slideIndex);
       
       function plusSlides(n) {
@@ -112,9 +140,7 @@ redirect_from:
     </script>
   
 
-
-Our group is a mix of physicist, engineer, computer scientist, biologist and chemist. 
-  
+</body>
 
 
 
