@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{::options parse_block_html="true" /}
 
 <style>
     .area_pics img{
