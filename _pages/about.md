@@ -76,7 +76,7 @@ redirect_from:
 ## What we do
 <b>Seeing is believing! </b> We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.
 
-## Who are we
+
      <div class="slideshow-container">
       <div class="mySlides">
         <img src="/images/team1.jpg" style="width:100%">
