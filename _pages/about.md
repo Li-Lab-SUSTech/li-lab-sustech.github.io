@@ -152,8 +152,7 @@ redirect_from:
         slides[slideIndex-1].style.display = "block";
       }
     </script>
-  
-
+ 
 </body>
 
 
