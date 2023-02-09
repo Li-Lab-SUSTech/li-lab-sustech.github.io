@@ -91,28 +91,43 @@ redirect_from:
      <hr/> 
   <div class="slideshow-container">
       <div class="mySlides"> 
-        <img src="/images/team1.jpg" style="width:100%">
+        <img src="/images/team1.png" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/images/team2.jpg" style="width:100%">
+        <img src="/images/team2.png" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/images/team3.jpg" style="width:100%">
+        <img src="/images/team3.png" style="width:100%">
       </div>
           <div class="mySlides"> 
-        <img src="/images/team4.jpg" style="width:100%">
+        <img src="/images/team4.png" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/images/team5.jpg" style="width:100%">
+        <img src="/images/team5.png" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/images/team6.jpg" style="width:100%">
+        <img src="/images/team6.png" style="width:100%">
       </div>
           <div class="mySlides"> 
-        <img src="/images/team7.jpg" style="width:100%">
+        <img src="/images/team7.png" style="width:100%">
       </div>
       <div class="mySlides">
-        <img src="/images/team8.jpg" style="width:100%">
+        <img src="/images/team8.png" style="width:100%">
+      </div>
+              <div class="mySlides"> 
+        <img src="/images/team9.png" style="width:100%">
+      </div>
+      <div class="mySlides">
+        <img src="/images/team10.png" style="width:100%">
+      </div>
+      <div class="mySlides">
+        <img src="/images/team11.png" style="width:100%">
+      </div>
+          <div class="mySlides"> 
+        <img src="/images/team12.png" style="width:100%">
+      </div>
+      <div class="mySlides">
+        <img src="/images/team13.png" style="width:100%">
       </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
