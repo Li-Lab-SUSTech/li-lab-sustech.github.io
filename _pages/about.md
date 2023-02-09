@@ -76,10 +76,7 @@ redirect_from:
 <li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
 <li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
 <li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
-<li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
-<li>Welcome our new research assistant Jingwen Zhang!--2022.06.08</li>
-<li>DMO PSF paper is out at Optics Letters! Congratulations Shuang Fu!--2022.06.08</li>
-<li> globLoc paper is out at Nature Communications! Congratulations Wei Shi!--2022.06.06</li>
+
   </div>
    </div>   
 <br>
