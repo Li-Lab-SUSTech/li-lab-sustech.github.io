@@ -71,7 +71,7 @@ redirect_from:
    <h1> News about the laboratory</h1>
    <hr/> 
 <div class="news">
-<li>FD-DeepLoc paper is out at Nature Methods! Congratulations Shuang Fu and Wei Shi!--2023.02</li>
+<li>FD-DeepLoc paper is out at Nature Methods! Congratulations Shuang Fu&Wei Shi!--2023.02</li>
 <li>Welcome our new research assistant Xinyue Li! -- 2023.02</li>
 <li>Welcome our new research associate Ke Fang! -- 2022.12</li>
 <li>Welcome our new research assistant Zeyu Xi! -- 2022.06.13</li>
