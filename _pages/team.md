@@ -43,7 +43,7 @@ height:150px;
 </div>
 </div>
 
-<h2>Researcher Associate</h2>
+<h2>Research Associate</h2>
 <hr>
 <div class="members">
  <div class="pic">
