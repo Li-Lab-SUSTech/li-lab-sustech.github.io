@@ -153,6 +153,9 @@ redirect_from:
         }
         slides[slideIndex-1].style.display = "block";
       }
+       setInterval(function () {
+    plusSlides(1);
+  }, 3000);
     </script>
  
 </body>
