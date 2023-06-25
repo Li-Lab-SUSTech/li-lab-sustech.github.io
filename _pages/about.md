@@ -131,6 +131,12 @@ redirect_from:
          <div class="mySlides">
         <img src="/images/team14.png" style="width:100%">
       </div>
+      <div class="mySlides">
+        <img src="/images/team15.png" style="width:100%">
+      </div>
+      <div class="mySlides">
+        <img src="/images/team16.png" style="width:100%">
+      </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
