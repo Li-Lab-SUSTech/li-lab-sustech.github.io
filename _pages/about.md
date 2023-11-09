@@ -124,6 +124,9 @@ redirect_from:
       <div class="mySlides">
         <img src="/images/team11.png" style="width:100%">
       </div>
+      <div class="mySlides">
+        <img src="/images/team11+.png" style="width:100%">
+      </div>
       <div class="mySlides"> 
         <img src="/images/team12.png" style="width:100%">
       </div>
