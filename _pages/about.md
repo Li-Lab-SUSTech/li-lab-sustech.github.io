@@ -71,7 +71,9 @@ redirect_from:
    <h1> News about the laboratory</h1>
    <hr/> 
 <div class="news">
- <li> “Optimal Sampling Rate for 3D Single Molecule Localization” is out at Optics Express! Congratulations Huanzhi Chang&Shuang Fu!--2023.11</li>
+<li> “Universal inverse modelling of point spread functions for SMLM localization and microscope characterization” is accepted by Nature Methods! Congratulations Jianwei Chen!--2024.03</li>
+<li> “Aberration correction for deformable mirror based remote focusing enables high-accuracy whole-cell super-resolution imaging” is accepted by Photonics Research! Congratulations Wei Shi!--2024.02</li>
+<li> “Optimal Sampling Rate for 3D Single Molecule Localization” is out at Optics Express! Congratulations Huanzhi Chang&Shuang Fu!--2023.11</li>
 <li>Congratulations to Wei Shi and Shuang Fu for being awarded the National Scholarship for Ph.D. Students!--2023.10</li>
 <li>FD-DeepLoc paper is out at Nature Methods! Congratulations Shuang Fu&Wei Shi!--2023.02</li>
 <li>Welcome our new research assistant Xinyue Li! -- 2023.02</li>
