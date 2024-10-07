@@ -71,6 +71,7 @@ redirect_from:
    <h1> News about the laboratory</h1>
    <hr/> 
 <div class="news">
+<li> Received 2024 SUSTech Presidential Early Career Award for Excellence in Research! (2 junior PI every year)--2024.09</li>
 <li> “High Refractive Index Imaging Buffer for Dual-Color 3D SMLM Imaging of Thick Samples” is accepted by Analytical Chemistry! Congratulations Lulu Zhou!--2024.09</li>
 <li> “Fast and universal single molecule localization using multi-dimensional point spread functions” is accepted by Optics Express! Congratulations Mengfan Li!--2024.09</li>
 <li> “Facile Blinking Dyes with Spontaneous Enol-Keto Tautomerism for Super-Resolution Imaging of Subcellular Targets” is published by CCS Chemistry! Congratulations Lulu Zhou!--2024.06</li>
