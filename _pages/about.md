@@ -73,7 +73,7 @@ redirect_from:
 <div class="news">
 <li> “High Refractive Index Imaging Buffer for Dual-Color 3D SMLM Imaging of Thick Samples” is accepted by Analytical Chemistry! Congratulations Lulu Zhou!--2024.09</li>
 <li> “Fast and universal single molecule localization using multi-dimensional point spread functions” is accepted by Optics Express! Congratulations Mengfan Li!--2024.09</li>
-<li> “Fast and universal single molecule localization using multi-dimensional point spread functions” is accepted by Optics Express! Congratulations Ke Fang!--2024.06</li>
+<li> “Facile Blinking Dyes with Spontaneous Enol-Keto Tautomerism for Super-Resolution Imaging of Subcellular Targets” is published by CCS Chemistry! Congratulations Lulu Zhou!--2024.06</li>
 <li> “3D chromatin structures associated with ncRNA roX2 for hyperactivation and co-activation across the entire X chromosome” is accepted by Science Advances! Congratulations Ke Fang!--2024.06</li>
 <li> “Universal inverse modelling of point spread functions for SMLM localization and microscope characterization” is accepted by Nature Methods! Congratulations Jianwei Chen!--2024.03</li>
 <li> “Aberration correction for deformable mirror based remote focusing enables high-accuracy whole-cell super-resolution imaging” is accepted by Photonics Research! Congratulations Wei Shi!--2024.02</li>
