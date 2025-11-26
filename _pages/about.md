@@ -71,6 +71,11 @@ redirect_from:
    <h1> News about the laboratory</h1>
    <hr/> 
 <div class="news">
+<li> “Scalable and lightweight deep learning for efﬁcient high accuracy single-molecule localization microscopy” is published by Nature communications! Congratulations Yue Fei!--2025.08</li>
+<li> “upsampled PSF enables high accuracy 3D superresolution imaging with sparse sampling rate” is published by Photonics Research! Congratulations Jianwei Chen!--2025.05</li>
+<li> “Multicolor 4Pi single-molecule localization based on differences in interference patterns” is published by Optics Letters! Congratulations Jianwei Chen!--2025.03</li>
+<li> “The nuclear matrix stabilizes primed-specific genes in human pluripotent stem cells” is published by nature cell biology! Congratulations Lulu Zhou!--2025.01</li>
+<li> “CLASP-mediated competitive binding in protein condensates directs microtubule growth” is published by Nature communications! Congratulations Lulu Zhou!--2024.09</li>
 <li> Received 2024 SUSTech Presidential Early Career Award for Excellence in Research! (2 junior PI every year)--2024.09</li>
 <li> “High Refractive Index Imaging Buffer for Dual-Color 3D SMLM Imaging of Thick Samples” is accepted by Analytical Chemistry! Congratulations Lulu Zhou!--2024.09</li>
 <li> “Fast and universal single molecule localization using multi-dimensional point spread functions” is accepted by Optics Express! Congratulations Mengfan Li!--2024.09</li>
