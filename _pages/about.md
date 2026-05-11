@@ -98,7 +98,7 @@ redirect_from:
 <br>
 <h1>What we do </h1>
    <hr/> 
-  <p><b>Seeing is believing! </b>We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, deeper depth, and faster speed. We embrace the open science and hope that our work will promote both the advancement of science and technology.</p>
+  <p><b>Seeing is believing! </b>We firmly believe that resolution determines the depth of the research. We are interested to use super-resolution microscopy to show the wonders of the microscopic world. To achieve this, we collaborate heavily with biologists and develop a range of interdisciplinary technologies including new optics theories, advanced algorithms, smart hardware design and imaging strategies for better resolution, greater depth, and higher throughput. We embrace the open science and hope that our work will promote both the advancement of science and technology.</p>
 
 <h1>Who we are </h1>
      <hr/> 
